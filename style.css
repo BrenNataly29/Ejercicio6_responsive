@@ -4,8 +4,8 @@
 }
 
 @font-face {
-    font-family: "Madelyn-Trial-Regular";
-    src: url("fonts/Madelyn/Non-commercial/TTF/Madelyn-Trial-Regular.ttf");
+    font-family: "Noah-Regular";
+    src: url("fonts/Noah/Commercial/TTF/Noah-Regular.ttf");
 }
 
 :root {
@@ -16,7 +16,7 @@
     --clr-neutral-900: #222c2a;
 
     --ff-primary: "Phenomena-Regular";
-    --ff-accent: "Madelyn-Trial-Regular";
+    --ff-accent: "Phenomena-Regular";
 }
 
 *,
